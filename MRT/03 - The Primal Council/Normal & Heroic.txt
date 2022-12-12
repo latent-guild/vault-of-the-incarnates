@@ -1,0 +1,20 @@
+{T}{tank} Stack bosses in the |cff5B9279middle|r, faced |cff5B9279away from the party|r; never move them.
+
+{/T}{c:Mage,Shaman,Evoker,Hunter}{spell:2825} on pull, once bosses are stacked.
+
+{/c}|cffffd65cThe Primal Council|r
+- Bosses |cff984447need|r to die |cff5B9279in sync|r.
+{T}- {tank} Swap |cffffd65cOpalfang|r for |cffffd65cEmbar|r each {spell:372056} |cff7796CBCrush|r.
+{/T}{D}{c:Warrior,Paladin,Rogue,Death Knight,Shaman,Monk,Druid,Demon Hunter}- {Warrior} Stack behind the bosses.
+{/c}{/D}{c:Hunter,Priest,Shaman,Mage,Warlock,Evoker}- {Mage} Stack towards the edge.
+{/c}{H}{c:Paladin,Monk,Druid}- {Mage} Stack towards the edge.
+{/c}{/H}
+- Dodge {spell:396328} |cff7796CBEarthen Pillar|rs to the left, right back on the pillars, stay.
+- Soak  {spell:374043} |cff7796CBMeteor Axes|r on the pillar, then move to the left of the puddle.
+- At 6-7x {spell:371836} |cff7796CBPrimal Blizzard|r, dip in lava.
+
+Interrupts for |cffffd65cKadros|r' {spell:372315} |cff7796CBFrost Spike|r and |cffffd65cDathea|r's {spell:372394} |cff7796CBLightning Bolt|r:
+startLine
+{skull}372315 |cff3ec6eaRain|r |cfff38bb9Nasusu|r |cff8687edSvenindss|r |cff006fdcKravesh|r |cffa22fc8Fobwoch|r      
+{cross}372394 |cff006fdcMacetrow|r |cffc59a6cFlaregood|r |cfff38bb9Judanssii|r |cff00fe97Týrr|r |cffa9d271Fatbum|r      
+endLine

@@ -1,0 +1,19 @@
+{T}{tank} Move boss |cff5B9279clockwise|r around the arena.
+
+{/T}{c:Mage,Shaman,Evoker,Hunter}{spell:2825} on pull.
+
+{/c}{p1}|cffffd65cPhase 1|r
+- Drop {spell:390715} |cff7796CBFlamerift|r pools |cff5B9279behind|r the group.
+- Take the {spell:370597} fixate |cff5B9279into|r the boss.
+- Dodge {spell:370615} |cff7796CBMolten Cleave|r.
+- Dodge {spell:396022} |cff7796CBMolten Spikes|r, and their line AoEs after {spell:396023} |cff7796CBIncinerating Roar|r. 
+{D}- {dps} Focus adds.
+{/D}{H}- {healer} Heal through {spell:396023} |cff7796CBIncinerating Roar|r and its dot.
+{/H}{T}- {tank} Swap on 2x {spell:394904} |cff7796CBBurning Wound|r or when the debuff drops off.
+{/T}{/p}
+{p2}|cffffd65cPhase 2|r
+- Do |cff984447NOT|r touch the ring.
+- Nuke {skull} |cff7796CBPrimal Flame|r.
+- Don't be in the middle when |cff7796CBPrimal Flames|r reach the boss.
+{H}- {healer} Heal through {spell:381576} |cff7796CBPulsing Flames|r.{/H}
+{/p}

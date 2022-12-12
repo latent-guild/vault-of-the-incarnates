@@ -1,0 +1,12 @@
+{c:Mage,Shaman,Evoker,Hunter}{spell:2825} on pull.
+
+{/c}|cffffd65cTerros|r
+- Soak {spell:380487} |cff7796CBRock Blast|r then move out.
+- Move out with {spell:381315} |cff7796CBAwakened Earth|r and form a line.
+{T}- {tank} Aim {spell:376279} |cff7796CBConcussive Slam|r on pillars.
+- {tank} Swap every {spell:376279} |cff7796CBConcussive Slam|r cast.
+{/T}{H}- Dodge {spell:376279} |cff7796CBConcussive Slam|r's line.
+- {healer} Heal through {spell:381576} |cff7796CBSeismic Assault|r when pillars explode.
+{/H}{D}- Dodge {spell:376279} |cff7796CBConcussive Slam|r's line.
+{/D}- Dodge {spell:383073} |cff7796CBShattering Impact|r, then stack, then dodge again.
+- Dodge {spell:377166} |cff7796CBResonating Annihilation|r |cff5B9279clockwise|r.
