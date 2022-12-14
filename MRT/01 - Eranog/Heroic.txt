@@ -10,8 +10,7 @@
 {D}- {dps} Focus adds.
 {/D}{H}- {healer} Heal through {spell:396023} |cff7796CBIncinerating Roar|r and its dot.
 {/H}{T}- {tank} Swap on 2x {spell:394904} |cff7796CBBurning Wound|r or when the debuff drops off.
-{/T}{/p}
-{p2}|cffffd65cPhase 2|r
+{/T}{/p}{p2}|cffffd65cPhase 2|r
 - Do |cff984447NOT|r touch the ring.
 - Nuke {skull} |cff7796CBPrimal Flame|r.
 - Don't be in the middle when |cff7796CBPrimal Flames|r reach the boss.
