@@ -1,0 +1,16 @@
+{c:Mage,Shaman,Evoker,Hunter}{spell:2825} on pull.
+
+{/c}{p1}|cffffd65cPhase 1|r
+- Drop {spell:372082} |cff7796CBEnveloping Webs|r along the edge.
+- Spread with {spell:371976} |cff7796CBChilling Blast|r.
+- Use KB prevent, stand far or in webs for {spell:373405} |cff7796CBGossamer Burst|r.
+- Too many stacks from standing in webs coocoons you.
+- Kill |cffFBAC4ECaustic Spiderling|r on cocooned players to free them, or stand in the swirly to clear your stacks.
+{D}- {dps} Nuke |cffFBAC4EFrostbreath Arachnids|r, don't stand in front of them.
+{/D}{H}- Don't stand in front of |cffFBAC4EFrostbreath Arachnids|r.{/H}{T}- {tank} Swap at 8-9x {spell:385083} |cff7796CBWeb Blast|r.
+- {tank} Face |cffFBAC4EFrostbreath Arachnids|r away.
+{/T}{/p}{p2}|cffffd65cPhase 2|r
+- Spread & bait {spell:371976} |cff7796CBChilling Blast|r along the edge, dodge.
+- Position for KB with {spell:373027} |cff7796CBSuffocating Webs|r.
+- KB prevent, or stand in webs for {spell:371983} |cff7796CBRepelling Burst|r.
+- Kill |cffFBAC4ECaustic Spiderling|r on cocooned players to free them.{/p2}
