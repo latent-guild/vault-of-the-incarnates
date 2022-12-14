@@ -1,0 +1,14 @@
+{c:Mage,Shaman,Evoker,Hunter}{spell:2825} on pull.
+
+{/c}{p1}|cffffd65cPhase 1|r
+- Move out & spread with {spell:391686} |cff7796CBConductive Mark|r.
+- Dodge {spell:388410} |cff7796CBCrosswinds|r, watch for their arrows.
+- Don't get sucked in during {spell:376943} |cff7796CBCyclone|r.
+{H}- {healer} Pop cds for {spell:376943} |cff7796CBCyclone|r.
+{/H}{T}- {tank} Swap at 3x {spell:375580} |cff7796CBZephyr Slam|r.
+- {tank} Always have a tank on every add and the boss.
+{/T}{/p}{p2}|cffffd65cPhase 2|r
+- Position for KB when |cffFBAC4EVolatile Infuser|r dies.
+- Group |cff5B92791|r and |cff5B92793|r get KB'd to add platform.
+- CC & nuke |cffFBAC4EThunder Caller|rs first.
+- Interrupt the |cffFBAC4EInfuser|r's {spell:387982} |cff7796CBDiverted Essence|r.{/p}
