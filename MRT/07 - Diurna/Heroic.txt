@@ -1,0 +1,36 @@
+Boss group:
+|cff3ec6eaRainzor|r |cfff38bb9Nasusu|r |cfff38bb9Judanssii|r |cff006fdcMacetrow|r |cff006fdcKravesh|r |cff00fe97Härkkis|r |cff006fdcSuige|r |cffa9d271Fatbum|r |cff33937fKard|r
+- Egg duty: |cfff38bb9Judanssii|r |cff006fdcKravesh|r
+Add group:
+|cff8687edSvenindss|r |cff8687edKilligans|r |cff00fe97Týrr|r |cff3ec6eaValket|r |cfffe7b09Bearyscary|r |cfffefefeRraannggss|r |cffc31d39Ayeña|r |cffc59a6cFlaregood|r |cffa22fc8Fobwoch|r 
+{T}
+{tank} Keep boss & adds separate.{/T}
+{p1}|cffffd65cPhase 1|r
+{g12}Boss group:
+{T} - {tank} Keep moving boss near new eggs as current ones get cleared.
+{/T} - {spell:376073} |cff7796CRapid Incubation|r will mark eggs.
+{p:Kravesh,Judansii} - Egg duty: go up to |cffffd65cDiurna|r's staff, use the extra button, kite the beam onto marked eggs.
+- On Heroic, after one egg's down,  wait for the boss' {spell:375829} |cffffd65c Rage|r to clear before popping the next one.
+{/p}{H} - {healer} Expect big raid damage when the boss plants its staff.
+{/H}{T} - {tank} Pop defensives for {spell:375870} |cff7796CMortal Stoneclaws|r.
+{/T}{/g}{g24}Add group:
+- Interrupt {spell:375716} |cff7796CIce Barrage| (|cffFBAC4Mage|r). Order:
+startLine
+{skull} 375716 |cff8687edSvenindss|r |cff006fdcKravesh|r |cff8687edKilligans|r |cffa22fc8Fobwoch|r |cff3ec6eaValket|r
+endLine
+- Interrupt {spell:375653} |cff7796CStatic Jolt|r. Order:
+startLine
+{moon}375653 |cff00fe97Týrr|r |cffc31d39Ayeña|r |cffa22fc8Fobwoch|r |cffc59a6cFlaregood|r       
+endLine
+- Purge |cff7796CCauterizing Flashflames|r (|cffFBAC4Flamebender|r).
+{T} - {tank} Mitigate {spell:38844} |cff7796CVicious Thrust| (|cffFBAC4Legionnaire|r).
+- {tank} Pop big defensives for {spell:375475} |cff7796CRending Bite|r (|cffFBAC4Frost Proto|r), {spell:376272} |cff7796CBurrowing Strike|r (|cffFBAC4Earthreaver|r).
+- {tank} Dodge {spell:376257} |cff7796CTremors|r (|cffFBAC4Earthreaver|r).
+{/T}{H} - {healer} Watch out for {spell:375457} |cff7796CChilling Tantrum|r.
+{/H}{/g}{p2}|cffffd65cPhase 2|r
+{c:Mage,Shaman,Evoker,Hunter}- {spell:2825} Lust
+{/c} - Staff beam is now random.
+- Kite it out of the group and into eggs if there's any left.
+- Clear the ice roots from {spell:388918} |cff7796CFrozen Shroud|r.
+{T} - {tank} Swap every {spell:375870} |cff7796CMortal Stoneclaws|r.
+{/T}
