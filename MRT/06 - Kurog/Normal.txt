@@ -23,18 +23,15 @@ Swap at 50% energy.
 - Watch which adds spawn.
 - {circle} Fire: dodge lava.
 - {square} Frost:
-  - Interruput {spell:374623} |cff7796CBFrost Binds|r.
+  - Interrupt {spell:374623} |cff7796CBFrozen Binds|r. Order:
+startLine
+{skull} 374623 |cff3ec6eaRainzor|r |cff006fdcMacetrow|r |cfff38bb9Nasusu|r |cfff38bb9Judanssii|r |cff8687edSvenindss|r
+endLine
   - Stack on the add for {spell:374624} |cff7796CBFreezing Tempest|r.
 - {star} Stone: Move out with {spell:397338} |cff7796CBGround Shatter|r.
 {T}  - {tank} Swap each {spell:374321} |cff7796CBBreaking Gravel|r.
 {/T}- {triangle} Storm: Move out if targetted by {spell:391696} |cff7796CBLethal Current|r.
-
-Interrupts for |cffffd65cFrozen Destroyer|r's {spell:374623} |cff7796CBFrozen Binds|r.
-startLine
-{skull} 374623 |cff3ec6eaRainzor|r |cff006fdcMacetrow|r |cfff38bb9Nasusu|r |cfff38bb9Judanssii|r |cff8687edSvenindss|r      
-endLine
 {/p}{p3}|cffffd65cPhase 3|r
 {c:Mage,Shaman,Evoker,Hunter}- {spell:2825} Lust
-{/c}
-- Nuke the boss, it can cast any |cffffd65cPhase 1|r ability.
+{/c} - Nuke the boss, it can cast any |cffffd65cPhase 1|r ability.
 {/p}
