@@ -3,25 +3,28 @@ Swap at 50% energy.
 
 {p1}|cffffd65cPhase 1|r
 - Watch the altar he's near.
-{T}- {tank} Change altars when the raid takes tons of damage.
-- {tank} Never take Kurog to the middle, face him away.
+{T}- {tank} Change altars when the raid takes tons of damage and {spell:374861} |cff7796CBPrimal Shift|r is off.
+- {tank} Never take Kurog to the middle, tank him faced to a wall.
 - {tank} Swap each {spell:390548} |cff7796CBSundering Strike|r.
 {/T}- {circle} Fire:
   - Stack on the wall to drop puddles, dodge right.
   - Keep moving right with {spell:392192} |cff7796CBSearing Charge|r.
 - {square} Frost:
+  - Dodge frost bolts.
   - Split into ranged and melee groups to soak {spell:372456} |cff7796CBAbsolute Zero|r.
 {H}  - {healer} Pop CDs for {spell:373678} |cff7796CBBiting Chill|r.
 {/H}- {star} Stone:
-  - |cff5B9279Out|r then |cff5B9279in|r to the boss the boss for {spell:395893} |cff7796CBErupting Bedrock|r.
+  - |cff5B9279Out|r then |cff5B9279in|r the boss for {spell:395893} |cff7796CBErupting Bedrock|r.
 {T}  - {tank} Tank the adds.
-{/T}  - Dodge swirls and kill adds.
+{/T}{H}  - {healer} Heal through {spell:391055} |cff7796CBEnveloping Earth|r.
+{/H}  - Dodge swirls and kill adds.
 - {triangle} Storm:
+  - Stay spread then pair up for {spell:397358} |cff7796CBLightning Crash|r.
   - Move out with {spell:397341} |cff7796CBShocking Burst|r.
   - Soak all {spell:374215} |cff7796CBThunder Strike|r circles.
 {/p}{p2}|cffffd65cPhase 2|r
 - Watch which adds spawn.
-- {circle} Fire: dodge lava.
+- {circle} Fire: dodge lava, interrupt and kill adds.
 - {square} Frost:
   - Interruput {spell:374623} |cff7796CBFrost Binds|r.
   - Stack on the add for {spell:374624} |cff7796CBFreezing Tempest|r.
