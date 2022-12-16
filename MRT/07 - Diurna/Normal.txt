@@ -8,22 +8,22 @@ Add group:
 {p1}|cffffd65cPhase 1|r
 {g12}Boss group:
 {T} - {tank} Keep moving boss near new eggs as current ones get cleared.
-{/T} - {spell:376073} |cff7796CRapid Incubation|r will mark eggs.
+{/T} - {spell:376073} |cff7796CBRapid Incubation|r will mark eggs.
 {p:Kravesh,Judansii} - Egg duty: go up to |cffffd65cDiurna|r's staff, use the extra button, kite the beam onto marked eggs.
 {/p}{H} - {healer} Expect big raid damage when the boss plants its staff.
-{/H}{T} - {tank} Pop defensives for {spell:375870} |cff7796CMortal Stoneclaws|r.
+{/H}{T} - {tank} Pop defensives for {spell:375870} |cff7796CBMortal Stoneclaws|r.
 {/T}{/g}{g24}Add group:
-- Interrupt {spell:375716} |cff7796CIce Barrage| (|cffFBAC4Mage|r). Order:
+- Interrupt {spell:375716} |cff7796CBIce Barrage|r (|cffFBAC4EMage|r). Order:
 startLine
 {skull} 375716 |cff8687edSvenindss|r |cff006fdcKravesh|r |cff8687edKilligans|r |cffa22fc8Fobwoch|r |cff3ec6eaValket|r
 endLine
-{T} - {tank} Mitigate {spell:38844} |cff7796CVicious Thrust| (|cffFBAC4Legionnaire|r).
-- {tank} Dodge {spell:376257} |cff7796CTremors|r (|cffFBAC4Earthreaver|r).
-{/T}{H} - {healer} Watch out for {spell:375457} |cff7796CChilling Tantrum|r.
+{T} - {tank} Mitigate {spell:38844} |cff7796CBVicious Thrust|r (|cffFBAC4ELegionnaire|r).
+- {tank} Dodge {spell:376257} |cff7796CBTremors|r (|cffFBAC4EEarthreaver|r).
+{/T}{H} - {healer} Watch out for {spell:375457} |cff7796CBChilling Tantrum|r.
 {/H}{/g}{p2}|cffffd65cPhase 2|r
 {c:Mage,Shaman,Evoker,Hunter}- {spell:2825} Lust
 {/c} - Staff beam is now random.
 - Kite it out of the group and into eggs if there's any left.
-- Clear the ice roots from {spell:388918} |cff7796CFrozen Shroud|r.
-{T} - {tank} Swap every {spell:375870} |cff7796CMortal Stoneclaws|r.
+- Clear the ice roots from {spell:388918} |cff7796CBFrozen Shroud|r.
+{T} - {tank} Swap every {spell:375870} |cff7796CBMortal Stoneclaws|r.
 {/T}
