@@ -15,6 +15,6 @@
 
 Interrupts for |cffffd65cKadros|r' {spell:372315} |cff7796CBFrost Spike|r and |cffffd65cDathea|r's {spell:372394} |cff7796CBLightning Bolt|r:
 startLine
-{skull}372315 |cff3ec6eaRain|r |cfff38bb9Nasusu|r |cff8687edSvenindss|r |cff006fdcKravesh|r |cffa22fc8Fobwoch|r      
-{cross}372394 |cff006fdcMacetrow|r |cffc59a6cFlaregood|r |cfff38bb9Judanssii|r |cff00fe97Týrr|r |cffa9d271Fatbum|r      
+{skull} 372315 |cff3ec6eaRainzor|r |cfff38bb9Nasusu|r |cff8687edSvenindss|r |cff006fdcKravesh|r |cffa22fc8Fobwoch|r   
+{cross} 372394 |cff006fdcMacetrow|r |cffc59a6cFlaregood|r |cfff38bb9Judanssii|r |cff00fe97Týrr|r |cffa9d271Fatbum|r
 endLine
