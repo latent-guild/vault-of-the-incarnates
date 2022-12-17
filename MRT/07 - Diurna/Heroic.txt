@@ -1,26 +1,26 @@
 Boss group:
-|cff3ec6eaRainzor|r |cfff38bb9Nasusu|r |cfff38bb9Judanssii|r |cff006fdcMacetrow|r |cff006fdcKravesh|r |cff00fe97Härkkis|r |cff006fdcSuige|r |cffa9d271Fatbum|r |cff33937fKard|r
-- Egg duty: |cfff38bb9Judanssii|r |cff006fdcKravesh|r
+|cff3ec6eaRainzor|r |cfff38bb9Nasusu|r |cfff38bb9Judanssii|r |cff006fdcMacetrow|r |cffa22fc8Fobwoch|r |cff00fe97Härkkis|r |cff006fdcSuige|r |cffa9d271Fatbum|r |cff33937fKard|r
+- Egg duty: |cffa9d271Fatbum|r |cffa22fc8Fobwoch|r
 Add group:
-|cff8687edSvenindss|r |cff8687edKilligans|r |cff00fe97Týrr|r |cff3ec6eaValket|r |cfffe7b09Bearyscary|r |cfffefefeRraannggss|r |cffc31d39Ayeña|r |cffc59a6cFlaregood|r |cffa22fc8Fobwoch|r 
+|cff8687edSvenindss|r |cff8687edKilligans|r |cff00fe97Týrr|r |cff3ec6eaValket|r |cfffe7b09Bearyscary|r |cfffefefeRraannggss|r |cffc31d39Ayeña|r |cffc59a6cFlaregood|r |cff006fdcKravesh|r
 {T}
 {tank} Keep boss & adds separate.{/T}
 {p1}|cffffd65cPhase 1|r
 {g12}Boss group:
 {T} - {tank} Keep moving boss near new eggs as current ones get cleared.
 {/T} - {spell:376073} |cff7796CBRapid Incubation|r will mark eggs.
-{p:Kravesh,Judansii} - Egg duty: go up to |cffffd65cDiurna|r's staff, use the extra button, kite the beam onto marked eggs.
+{p:Fatbum,Fobwoch} - Egg duty: go up to |cffffd65cDiurna|r's staff, use the extra button, kite the beam onto marked eggs.
 - On Heroic, after one egg's down,  wait for the boss' {spell:375829} |cffffd65c Rage|r to clear before popping the next one.
 {/p}{H} - {healer} Expect big raid damage when the boss plants its staff.
 {/H}{T} - {tank} Pop defensives for {spell:375870} |cff7796CBMortal Stoneclaws|r.
 {/T}{/g}{g24}Add group:
 - Interrupt {spell:375716} |cff7796CBIce Barrage|r (|cffFBAC4EMage|r). Order:
 startLine
-{skull} 375716 |cff8687edSvenindss|r |cff006fdcKravesh|r |cff8687edKilligans|r |cffa22fc8Fobwoch|r |cff3ec6eaValket|r
+{skull}375716 |cff8687edSvenindss|r |cff006fdcKravesh|r |cff8687edKilligans|r |cff00fe97Týrr|r |cff3ec6eaValket|r
 endLine
 - Interrupt {spell:375653} |cff7796CBStatic Jolt|r. Order:
 startLine
-{moon}375653 |cff00fe97Týrr|r |cffc31d39Ayeña|r |cffa22fc8Fobwoch|r |cffc59a6cFlaregood|r       
+{moon}375653 |cff00fe97Týrr|r |cffc31d39Ayeña|r |cff006fdcKravesh|r |cffc59a6cFlaregood|r       
 endLine
 - Purge |cff7796CBCauterizing Flashflames|r (|cffFBAC4EFlamebender|r).
 {T} - {tank} Mitigate {spell:38844} |cff7796CBVicious Thrust|r (|cffFBAC4ELegionnaire|r).
